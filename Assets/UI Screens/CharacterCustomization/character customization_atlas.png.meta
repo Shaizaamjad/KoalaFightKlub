@@ -1,0 +1,1436 @@
+fileFormatVersion: 2
+guid: 8a647bb863c8e7d4184757da0f3643da
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character customization_atlas_2
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 3967
+        width: 254
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20c44bce2605fd43b2668c041ef0b50
+      internalID: -235023694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character customization_atlas_4
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 2265
+        width: 1348
+        height: 1740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db27303e1e4994a4f873d98ce6c99dc6
+      internalID: 1599412165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character customization_atlas_5
+      rect:
+        serializedVersion: 2
+        x: 3003
+        y: 3903
+        width: 478
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c62852528b177459cb851c55e0a895
+      internalID: 1342677803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character customization_atlas_6
+      rect:
+        serializedVersion: 2
+        x: 3505
+        y: 3903
+        width: 478
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f78f7b76a98be44ba283525fcd0395
+      internalID: -559290345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character customization_atlas_7
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 3779
+        width: 166
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50bc916b19672d40abbecf18b085278
+      internalID: 1440428778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character customization_atlas_8
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 3779
+        width: 166
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6670a6cf9a3c2254eac3a4e3de530f70
+      internalID: -601072868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character customization_atlas_9
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 3779
+        width: 166
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04577fd807ec8b348a53d42bdd35c793
+      internalID: -850644955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character customization_atlas_10
+      rect:
+        serializedVersion: 2
+        x: 2285
+        y: 2791
+        width: 1708
+        height: 1028
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c359b207ac9f64eaca5e5f01668b3b
+      internalID: -732631787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character customization_atlas_11
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 3607
+        width: 427
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1680eae5b114040a766c9cfdedcb33
+      internalID: -1612379360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character customization_atlas_24
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 3350
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e171d4cfd4a3e4093bd44a7ce5521a
+      internalID: -1195095312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character customization_atlas_25
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 3361
+        width: 130
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e57282801cc624fbad4ba29a4a1ccd
+      internalID: 1531602986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character customization_atlas_26
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 3225
+        width: 76
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef9344a08024c141b8d65935ffd814f
+      internalID: -1884552957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character customization_atlas_27
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 3219
+        width: 382
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5443ffdee1571240b9e811523065762
+      internalID: -825606483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character customization_atlas_28
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 3135
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fadb2f9ec8b8d548a7a4596f5f5e7f8
+      internalID: 49921961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character customization_atlas_29
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 3135
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fec007c817d2084db08ddc0eaa7467b
+      internalID: 1008559874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character customization_atlas_30
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 3135
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c01ab3e8fb55544d9244230e5a4e668
+      internalID: 2071442444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character customization_atlas_31
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 3135
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0316bb5995ba0724aba7fd222eaa3803
+      internalID: 1337511681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character customization_atlas_32
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 3135
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535ab2516d083c6489d50b0133095b19
+      internalID: -569996044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character customization_atlas_33
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 2939
+        width: 382
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc1734e24327ea43966ebd0a83345af
+      internalID: -548762910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character customization_atlas_34
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 2776
+        width: 89
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc9a997ca287204194d5d6acdacec86
+      internalID: 994670421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character customization_atlas_37
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 2776
+        width: 95
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f826d69ee82d34d8141a725bf3c906
+      internalID: -1122545090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character customization_atlas_39
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 2772
+        width: 97
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9eca6c480363d748bcec3cd56e60f0b
+      internalID: -1721843246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character customization_atlas_41
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 2777
+        width: 102
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307d7c16736795943b5139c42bf13958
+      internalID: -1160920395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character customization_atlas_43
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 2777
+        width: 101
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f417e0b5bcae3498e2c0c21671f153
+      internalID: -84667759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character customization_atlas_45
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 2625
+        width: 382
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6a59b6443fa9042a0a2919fe1565f5
+      internalID: -1137138727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character customization_atlas_46
+      rect:
+        serializedVersion: 2
+        x: 3659
+        y: 2635
+        width: 322
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95aac4cabca903c47aaf79ff30954f67
+      internalID: -158415330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character customization_atlas_47
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 2493
+        width: 80
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6a4d883657b61469f644501ab17acc
+      internalID: 1134069769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character customization_atlas_48
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 2493
+        width: 80
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b699c3733085af6429850bb51b605efc
+      internalID: -1660908761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character customization_atlas_49
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 2493
+        width: 82
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a6fc2c0d611684ebc93106198fe1d4
+      internalID: 1582962331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character customization_atlas_50
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 2493
+        width: 80
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2fbf189c4acd8a43bd37d4cdd8fcf83
+      internalID: 978303676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character customization_atlas_51
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 2493
+        width: 80
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e997cef142b874b811139110f4d12e
+      internalID: 474444078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character customization_atlas_52
+      rect:
+        serializedVersion: 2
+        x: 3335
+        y: 2437
+        width: 678
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ca427c2275765489852c32f7495423
+      internalID: -1927288890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character customization_atlas_53
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 2369
+        width: 382
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb7daf7d4f168341bc6ce542668259a
+      internalID: -12534219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character customization_atlas_54
+      rect:
+        serializedVersion: 2
+        x: 2845
+        y: 2309
+        width: 440
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203953037f7381943b0a355e15b14f8f
+      internalID: -56825181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character customization_atlas_55
+      rect:
+        serializedVersion: 2
+        x: 3293
+        y: 2308
+        width: 704
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b866dad8092330944b42c003cf7bf430
+      internalID: -1644961273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character customization_atlas_56
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 2249
+        width: 95
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258b86a5bbd2c274cbb3fe2f22993240
+      internalID: 21443151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character customization_atlas_59
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 2249
+        width: 98
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca22232ea293b04bb5cac590f66af2e
+      internalID: 966709227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character customization_atlas_60
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 2249
+        width: 102
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282fb1c193727984eae1128b2371d46a
+      internalID: -354787353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character customization_atlas_61
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 2249
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd22284ee9f5ce4eac1312f984a81a9
+      internalID: 521721736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character customization_atlas_62
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 2249
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0add34272dfa2fa40b3892e23d016ee5
+      internalID: -1608976031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character customization_atlas_63
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 2051
+        width: 320
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea347afd05e8d1144bb3ec0a9a8f922a
+      internalID: 1276467099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character customization_atlas_64
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 2051
+        width: 322
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e88ae69c82e8543a8ca3e89b9645fd
+      internalID: -12657792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character customization_atlas_65
+      rect:
+        serializedVersion: 2
+        x: 2845
+        y: 2133
+        width: 440
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5d21deb0e9cfb468d5078d74137c4a
+      internalID: -1783451165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character customization_atlas_66
+      rect:
+        serializedVersion: 2
+        x: 3293
+        y: 2132
+        width: 704
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf42b93e7672eca4e8181a8994397c43
+      internalID: -1755311132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character customization_atlas_67
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1859
+        width: 398
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d085790376c68f440ba5157fa685500a
+      internalID: -2113118492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character customization_atlas_68
+      rect:
+        serializedVersion: 2
+        x: 2845
+        y: 1957
+        width: 440
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbbc68b36cb7fe4989cc6e19bf04e9d
+      internalID: -2090979119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character customization_atlas_69
+      rect:
+        serializedVersion: 2
+        x: 3293
+        y: 1957
+        width: 705
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f90ecbbb4628f041a4eab4640058116
+      internalID: 765348943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character customization_atlas_70
+      rect:
+        serializedVersion: 2
+        x: 2845
+        y: 1795
+        width: 440
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9eedaddceb6ec40a2dd6f69ba493ad
+      internalID: 946774976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character customization_atlas_71
+      rect:
+        serializedVersion: 2
+        x: 3293
+        y: 1794
+        width: 704
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd3d4a4c1584664fa0f137870303fe7
+      internalID: 433260014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character customization_atlas_72
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1730
+        width: 552
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c0621e3bd1658409a94a63b39691fb
+      internalID: -1927393828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character customization_atlas_80
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1566
+        width: 536
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050b3f9e91f83e642a9afff6c008ca55
+      internalID: -1529274393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character customization_atlas_84
+      rect:
+        serializedVersion: 2
+        x: 3407
+        y: 1587
+        width: 68
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdeb1ff113833c64289d917016eea507
+      internalID: 841697061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character customization_atlas_85
+      rect:
+        serializedVersion: 2
+        x: 3529
+        y: 1590
+        width: 66
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bfefd9f907b02f448edf12d067e4cda
+      internalID: 867232896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character customization_atlas_86
+      rect:
+        serializedVersion: 2
+        x: 3630
+        y: 1590
+        width: 67
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3970b19022664c6499f0648b887de84c
+      internalID: -1219082080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character customization_atlas_87
+      rect:
+        serializedVersion: 2
+        x: 3733
+        y: 1591
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51209146e1a8253499a529f85e63bc63
+      internalID: -1175682953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character customization_atlas_88
+      rect:
+        serializedVersion: 2
+        x: 3881
+        y: 1551
+        width: 140
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4179fcae70bdb4391774789f09077c
+      internalID: 1288751335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character customization_atlas_89
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 137
+        width: 1290
+        height: 1216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3acdc9f6208244d9ededf606e9004b
+      internalID: 1230563377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a09352537eb5383408d306cf6a24efc6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      character customization_atlas_0: 1858502809
+      character customization_atlas_1: 1821009905
+      character customization_atlas_10: -732631787
+      character customization_atlas_11: -1612379360
+      character customization_atlas_12: 1486988949
+      character customization_atlas_13: 665811215
+      character customization_atlas_14: -783827928
+      character customization_atlas_15: 1208782181
+      character customization_atlas_16: -2141114000
+      character customization_atlas_17: -1628777570
+      character customization_atlas_18: -583219422
+      character customization_atlas_19: -123932179
+      character customization_atlas_2: -235023694
+      character customization_atlas_20: 1426673648
+      character customization_atlas_21: 1255849976
+      character customization_atlas_22: -447537593
+      character customization_atlas_23: 1388765780
+      character customization_atlas_24: -1195095312
+      character customization_atlas_25: 1531602986
+      character customization_atlas_26: -1884552957
+      character customization_atlas_27: -825606483
+      character customization_atlas_28: 49921961
+      character customization_atlas_29: 1008559874
+      character customization_atlas_3: -1133494645
+      character customization_atlas_30: 2071442444
+      character customization_atlas_31: 1337511681
+      character customization_atlas_32: -569996044
+      character customization_atlas_33: -548762910
+      character customization_atlas_34: 994670421
+      character customization_atlas_35: -662727237
+      character customization_atlas_36: 539808212
+      character customization_atlas_37: -1122545090
+      character customization_atlas_38: 1173397942
+      character customization_atlas_39: -1721843246
+      character customization_atlas_4: 1599412165
+      character customization_atlas_40: -1093418162
+      character customization_atlas_41: -1160920395
+      character customization_atlas_42: -1115943644
+      character customization_atlas_43: -84667759
+      character customization_atlas_44: 1403982869
+      character customization_atlas_45: -1137138727
+      character customization_atlas_46: -158415330
+      character customization_atlas_47: 1134069769
+      character customization_atlas_48: -1660908761
+      character customization_atlas_49: 1582962331
+      character customization_atlas_5: 1342677803
+      character customization_atlas_50: 978303676
+      character customization_atlas_51: 474444078
+      character customization_atlas_52: -1927288890
+      character customization_atlas_53: -12534219
+      character customization_atlas_54: -56825181
+      character customization_atlas_55: -1644961273
+      character customization_atlas_56: 21443151
+      character customization_atlas_57: -421832698
+      character customization_atlas_58: -511020496
+      character customization_atlas_59: 966709227
+      character customization_atlas_6: -559290345
+      character customization_atlas_60: -354787353
+      character customization_atlas_61: 521721736
+      character customization_atlas_62: -1608976031
+      character customization_atlas_63: 1276467099
+      character customization_atlas_64: -12657792
+      character customization_atlas_65: -1783451165
+      character customization_atlas_66: -1755311132
+      character customization_atlas_67: -2113118492
+      character customization_atlas_68: -2090979119
+      character customization_atlas_69: 765348943
+      character customization_atlas_7: 1440428778
+      character customization_atlas_70: 946774976
+      character customization_atlas_71: 433260014
+      character customization_atlas_72: -1927393828
+      character customization_atlas_73: 2036029283
+      character customization_atlas_74: 703458781
+      character customization_atlas_75: 854834195
+      character customization_atlas_76: -798265544
+      character customization_atlas_77: -1257850782
+      character customization_atlas_78: 213971883
+      character customization_atlas_79: 824883339
+      character customization_atlas_8: -601072868
+      character customization_atlas_80: -1529274393
+      character customization_atlas_81: -918753038
+      character customization_atlas_82: -1663548394
+      character customization_atlas_83: 448038261
+      character customization_atlas_84: 841697061
+      character customization_atlas_85: 867232896
+      character customization_atlas_86: -1219082080
+      character customization_atlas_87: -1175682953
+      character customization_atlas_88: 1288751335
+      character customization_atlas_89: 1230563377
+      character customization_atlas_9: -850644955
+      character customization_atlas_90: -189370537
+      character customization_atlas_91: 598924830
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

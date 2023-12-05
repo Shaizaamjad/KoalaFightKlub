@@ -1,0 +1,777 @@
+fileFormatVersion: 2
+guid: a17d7a403daebec4fbfa8b074aadda90
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: intentory_gameplay atlas_0
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 3645
+        width: 1076
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2ca41cc4fad2d4db2649d92dde21b5
+      internalID: 1575942927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intentory_gameplay atlas_1
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 3918
+        width: 115
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ecf547bc5fbde47a207cc5ebfa958d
+      internalID: 1383416245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intentory_gameplay atlas_2
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 3906
+        width: 219
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6556e4f98cc15974998704d2289c3f1a
+      internalID: 2016447833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intentory_gameplay atlas_4
+      rect:
+        serializedVersion: 2
+        x: 2995
+        y: 3343
+        width: 1031
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7970b408826d0e49bc0f1bc6429040f
+      internalID: -1852259320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intentory_gameplay atlas_5
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 3851
+        width: 296
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9ccdc556a236b4e83ee39d137ded2b
+      internalID: -1180211776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intentory_gameplay atlas_7
+      rect:
+        serializedVersion: 2
+        x: 2655
+        y: 3830
+        width: 258
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf1a182c0d8e464885d41260b53525f
+      internalID: -386441560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intentory_gameplay atlas_9
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 3795
+        width: 146
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80bc12e2bae28bd47a3c49a0ea30b429
+      internalID: 1862358638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intentory_gameplay atlas_10
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 3709
+        width: 116
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1233b87c4bd412d4d890934bc69eabcb
+      internalID: -839030204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intentory_gameplay atlas_11
+      rect:
+        serializedVersion: 2
+        x: 2349
+        y: 3605
+        width: 172
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a932294e81594a44996081de129f6ef
+      internalID: -1089440845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intentory_gameplay atlas_16
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 3662
+        width: 245
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b1335c31be3a644b58b84785342d0a
+      internalID: 2014336181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intentory_gameplay atlas_18
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 3619
+        width: 144
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793619cf2c56b6946aff621ad6ac0ccb
+      internalID: 843393210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intentory_gameplay atlas_19
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 3369
+        width: 200
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84df930f257e6549a03057d20ffef35
+      internalID: -557256749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intentory_gameplay atlas_20
+      rect:
+        serializedVersion: 2
+        x: 2617
+        y: 3511
+        width: 346
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b006792ac7ba3499ef099e81696a8d
+      internalID: 1056948028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intentory_gameplay atlas_21
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 3163
+        width: 1078
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dcb71ebdfa2f2c40b6f4dedcd5b4c35
+      internalID: -376157546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intentory_gameplay atlas_22
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 3245
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5af4e6022ecd44ca9b2542469c06bb
+      internalID: 1037430388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intentory_gameplay atlas_23
+      rect:
+        serializedVersion: 2
+        x: 2655
+        y: 3375
+        width: 286
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e308d24dc267f5343bf25e3a6a12d0b2
+      internalID: -1202731941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intentory_gameplay atlas_24
+      rect:
+        serializedVersion: 2
+        x: 2725
+        y: 3296
+        width: 210
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e7448477ef66345b604a8f04920bcd
+      internalID: -1401728807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intentory_gameplay atlas_27
+      rect:
+        serializedVersion: 2
+        x: 2699
+        y: 3215
+        width: 160
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd63f017ce4cead42ba2e377e486dd0a
+      internalID: -984718397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intentory_gameplay atlas_28
+      rect:
+        serializedVersion: 2
+        x: 3323
+        y: 3215
+        width: 612
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea47b420646aff54da5baf01654f1840
+      internalID: -1889890545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intentory_gameplay atlas_29
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 3181
+        width: 384
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3383bd9077f5142a27df1554ec6aec
+      internalID: 2057706837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intentory_gameplay atlas_35
+      rect:
+        serializedVersion: 2
+        x: 3323
+        y: 3133
+        width: 612
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd5112fde49d7c4295f88359ac85591
+      internalID: 216305216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intentory_gameplay atlas_36
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 2993
+        width: 450
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77866d63291b0440aafe8f0e60ddf32
+      internalID: 592795075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intentory_gameplay atlas_37
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 2931
+        width: 226
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430396af0f0a03d4a9d10e4e06ee9b56
+      internalID: -389569242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intentory_gameplay atlas_38
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 2867
+        width: 770
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953a16531ba4e014781969cb41433371
+      internalID: -702839853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intentory_gameplay atlas_39
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 2785
+        width: 92
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a9b8d64185829489137bf7a78f0052
+      internalID: -1191265360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intentory_gameplay atlas_40
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 2605
+        width: 224
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a219284fa85d0594f837a0ac8b410346
+      internalID: 1684553315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intentory_gameplay atlas_41
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 7
+        width: 3846
+        height: 2174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d52b5026731476438ed2aaa2ff8d00e
+      internalID: -260773379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intentory_gameplay atlas_12
+      rect:
+        serializedVersion: 2
+        x: 2654
+        y: 3692
+        width: 289
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88244641c149a9f4fb3c26d35c342c26
+      internalID: 1955014218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 90615017870c0134c8697c58c01c8daa
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      intentory_gameplay atlas_0: 1575942927
+      intentory_gameplay atlas_1: 1383416245
+      intentory_gameplay atlas_10: -839030204
+      intentory_gameplay atlas_11: -1089440845
+      intentory_gameplay atlas_12: 1955014218
+      intentory_gameplay atlas_13: -603786103
+      intentory_gameplay atlas_14: 1558883177
+      intentory_gameplay atlas_15: 1248274166
+      intentory_gameplay atlas_16: 2014336181
+      intentory_gameplay atlas_17: -313543016
+      intentory_gameplay atlas_18: 843393210
+      intentory_gameplay atlas_19: -557256749
+      intentory_gameplay atlas_2: 2016447833
+      intentory_gameplay atlas_20: 1056948028
+      intentory_gameplay atlas_21: -376157546
+      intentory_gameplay atlas_22: 1037430388
+      intentory_gameplay atlas_23: -1202731941
+      intentory_gameplay atlas_24: -1401728807
+      intentory_gameplay atlas_25: 1189022060
+      intentory_gameplay atlas_26: -486167740
+      intentory_gameplay atlas_27: -984718397
+      intentory_gameplay atlas_28: -1889890545
+      intentory_gameplay atlas_29: 2057706837
+      intentory_gameplay atlas_3: -1909457913
+      intentory_gameplay atlas_30: 234434942
+      intentory_gameplay atlas_31: -1191822227
+      intentory_gameplay atlas_32: 419606028
+      intentory_gameplay atlas_33: 1533698037
+      intentory_gameplay atlas_34: 957280311
+      intentory_gameplay atlas_35: 216305216
+      intentory_gameplay atlas_36: 592795075
+      intentory_gameplay atlas_37: -389569242
+      intentory_gameplay atlas_38: -702839853
+      intentory_gameplay atlas_39: -1191265360
+      intentory_gameplay atlas_4: -1852259320
+      intentory_gameplay atlas_40: 1684553315
+      intentory_gameplay atlas_41: -260773379
+      intentory_gameplay atlas_5: -1180211776
+      intentory_gameplay atlas_6: 1985015527
+      intentory_gameplay atlas_7: -386441560
+      intentory_gameplay atlas_8: 634749689
+      intentory_gameplay atlas_9: 1862358638
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
