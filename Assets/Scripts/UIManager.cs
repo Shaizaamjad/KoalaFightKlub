@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class UIManager : MonoBehaviour
@@ -14,7 +12,7 @@ public class UIManager : MonoBehaviour
     public GameObject MainMenu;
     public GameObject Moves;
     public GameObject Pause;
-    public GameObject  Start;
+    public GameObject Start;
     public GameObject TapScreen;
     public GameObject Trophies;
     public GameObject MainMenuPanel;
@@ -24,4 +22,3 @@ public class UIManager : MonoBehaviour
 
 
 }
-    

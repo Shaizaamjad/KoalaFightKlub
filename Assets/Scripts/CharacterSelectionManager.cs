@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
@@ -12,7 +10,7 @@ public class CharacterSelectionManager : MonoBehaviour
     public TMP_Text HBARText;
 
     [Header("Image")]
-  
+
     public Image SpeediconPlayer1;
     public Image PowericonPlayer1;
     public Image DefenceiconPlayer1;

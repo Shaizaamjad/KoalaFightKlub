@@ -36,8 +36,10 @@ namespace Photon.Pun.UtilityScripts
     {
         /// <summary>Enum defining the teams available. First team should be neutral (it's the default value any field of this enum gets).</summary>
         [Obsolete("use custom PhotonTeam instead")]
-        public enum Team : byte { none, red, blue };
-
+        public enum Team : byte { none, red, blue,
+            B,
+            A
+        }
         /// <summary>The main list of teams with their player-lists. Automatically kept up to date.</summary>
         /// <remarks>Note that this is static. Can be accessed by PunTeam.PlayersPerTeam. You should not modify this.</remarks>
         [Obsolete("use PhotonTeamsManager.Instance.TryGetTeamMembers instead")]
