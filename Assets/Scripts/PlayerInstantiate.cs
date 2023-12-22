@@ -47,7 +47,7 @@ public class PlayerInstantiate : MonoBehaviourPunCallbacks
 
         if (newPlayer.CustomProperties.ContainsKey("Team"))
         {
-            Debug.Log("NewName");
+            
         }
     }
 }

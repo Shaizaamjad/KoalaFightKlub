@@ -12,12 +12,16 @@ public class UIManager : MonoBehaviour
     public GameObject MainMenu;
     public GameObject Moves;
     public GameObject Pause;
-    public GameObject Start;
+    public GameObject StartMenu;
     public GameObject TapScreen;
     public GameObject Trophies;
     public GameObject MainMenuPanel;
 
-
+     public static  UIManager instance;
+    private void Start()
+    {
+        GameObject startMenu = Instantiate(StartMenu);
+    }
 
 
 

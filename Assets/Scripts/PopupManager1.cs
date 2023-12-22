@@ -18,7 +18,7 @@ public class PopupManager : MonoBehaviour
     public GameObject GameResolutionPanel;
     public GameObject SaveKeysPanel;
     public GameObject InviteFriendsPanel;
-
+    public UIManager uiManager;
 
     [Header("UserNamePanel")]
 
@@ -49,6 +49,7 @@ public class PopupManager : MonoBehaviour
     [Header("Inventory Panel")]
     public Image InventoryCharcterImage;
     public Button EditButton;
+    public Button QuitButton;
     public TMP_Text TotalKoText;
     public TMP_Text TimePlayedText;
     public TMP_Text Khkwon;
@@ -81,8 +82,51 @@ public class PopupManager : MonoBehaviour
     public Toggle toggle2;
     public Button SendButton;
 
+    [Header("UserProfile")]
+    public Button Profilebutton;
+    public TMP_Text ProfileText;
+    public TMP_Text ProfileIdText;
 
+    [Header("Button")]
+    public Button SinglePlayer;
+    public Button StoryMode;
+    public Button DemoMode;
+    public Button OnlineMode;
+    public Button Tournaments;
+    public Button Trophies;
+    public Button MarketPlace;
+    public Button InviteFriends;
+    public Button Quit;
+    public Button Setting;
+    public Button BladeWallet;
 
+    public GameObject[] Uihandler;
 
+    private void Start()
+    {
+        uiManager = FindObjectOfType<UIManager>();
+        SinglePlayer.onClick.AddListener(Single);
+
+    }
+
+    public void Single()
+    {
+        GameObject mainMenu = Instantiate(uiManager.CharcterSelection);
+    }
+
+    public void openPanel(int index)
+    {
+        for (int i = 0; i < Uihandler.Length; i++)
+        {
+            if (i == index)
+            {
+                Uihandler[i].SetActive(true);
+            }
+            else
+            {
+                Uihandler[i].SetActive(false);
+            }
+        }
+    }
 
 }

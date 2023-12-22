@@ -9,4 +9,17 @@ public class StartMenu : MonoBehaviour
     public Button HederaButton;
     public Button BladeWalletButton;
 
+    public UIManager uiManager;
+
+    private void Start()
+    {
+        uiManager = FindObjectOfType<UIManager>();
+        StartButton.onClick.AddListener(StartButtonPressed);
+    }
+
+    public void StartButtonPressed()
+    {
+        GameObject mainMenu = Instantiate(uiManager.MainMenuPanel);
+    }
+
 }

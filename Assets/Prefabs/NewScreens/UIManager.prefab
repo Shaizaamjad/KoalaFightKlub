@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3644133716148410040
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3644133716148410042}
+  - component: {fileID: 3644133716148410043}
+  m_Layer: 0
+  m_Name: UIManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3644133716148410042
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3644133716148410040}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 2237.749, y: 1390.4946, z: -26.1675}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3644133716148410043
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3644133716148410040}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d739a8542d01b04d99baf6a849f4db9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ArenaSelection: {fileID: 4878847354930044169, guid: a1c8f18ac92f99d43ba3ad95e28f6c3d, type: 3}
+  CharcterCustomization: {fileID: 6749988578782305447, guid: f19ad612a1147aa44b123fe0adb4d32f, type: 3}
+  CharcterSelection: {fileID: 8375040700200354735, guid: ae951517af6c87447acf649ddcc993ec, type: 3}
+  Combos: {fileID: 3847707188789684303, guid: e6fb468feaf4efe45821b521300f6beb, type: 3}
+  GamePlay: {fileID: 1743124555538845185, guid: c30d0a724dca79e40a53ddbbb78cdb43, type: 3}
+  Loading: {fileID: 3171814536943261147, guid: 4e1914fffd514a04a85296dc7976bdba, type: 3}
+  MatchSummary: {fileID: 4702544261023522545, guid: 54256dbb7d1c76e4b81ec94751e3447a, type: 3}
+  MainMenu: {fileID: 4055734291109994029, guid: f8f7f0d3db168bc47973d9e72e9f848e, type: 3}
+  Moves: {fileID: 7571479348667142250, guid: 583b11b5aea137949b0288a8e09e40a9, type: 3}
+  Pause: {fileID: 5903946718249304506, guid: 486abd0b14f10144bb4946f516a4fbcf, type: 3}
+  StartMenu: {fileID: 9068125422280356140, guid: 1e5345bcf85690a47b95fd3a20e453bc, type: 3}
+  TapScreen: {fileID: 7246563454278660482, guid: dd639b15bd5d1d14b8fe101fd3179846, type: 3}
+  Trophies: {fileID: 5784865880871065327, guid: c38b62992b9e2974ca83d954aaeba9ff, type: 3}
+  MainMenuPanel: {fileID: 1088422450549183066, guid: 6cb4cefbba6d0f34c9180761afcae607, type: 3}

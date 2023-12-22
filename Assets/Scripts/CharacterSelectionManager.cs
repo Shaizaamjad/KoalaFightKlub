@@ -31,8 +31,20 @@ public class CharacterSelectionManager : MonoBehaviour
     [Header("Button")]
     public Button Back;
     public Button CharcterButton;
-    public Button ChooseRandomlyNutton;
+    public Button ChooseRandomlyButton;
     public Button Charcter2Button;
 
+    public UIManager uiManager;
+
+    private void Start()
+    {
+        uiManager = FindObjectOfType<UIManager>();
+        ChooseRandomlyButton.onClick.AddListener(Randomly);
+    }
+
+    public void Randomly()
+    {
+        GameObject mainMenu = Instantiate(uiManager.CharcterCustomization);
+    }
 
 }

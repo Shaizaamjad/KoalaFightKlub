@@ -1,4 +1,5 @@
 using TMPro;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -25,8 +26,33 @@ public class CharcterCustomization : MonoBehaviour
     public Button AutoEquip;
     public Button Clear;
     public Button Upgrade;
+    public UIManager uiManager;
+    public GameObject[] panelhandler;
+    private void Start()
+    {
+        uiManager = FindObjectOfType<UIManager>();
+        Proceed.onClick.AddListener(Proced);
+    }
 
+    public void Proced()
+    {
+        GameObject mainMenu = Instantiate(uiManager.ArenaSelection);
+    }
 
+    public void openPanel(int index)
+    {
+        for (int i = 0; i < panelhandler.Length; i++)
+        {
+            if (i == index)
+            {
+                panelhandler[i].SetActive(true);
+            }
+            else
+            {
+                panelhandler[i].SetActive(false);
+            }
+        }
+    }
 
 
 }
